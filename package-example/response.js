@@ -1,1 +1,0 @@
-console.log('From response.js : npm package start');

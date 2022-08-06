@@ -21,3 +21,5 @@ get('https://www.google.com',(res)=>{
         console.log('No more Data');
     })
 })
+
+// console.log(require.cache);
